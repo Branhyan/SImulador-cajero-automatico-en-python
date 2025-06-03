@@ -48,7 +48,7 @@ Notas
 
 -Las funciones están documentadas con comentarios para facilitar su comprensión
 
-📚 Aprendizajes
+Aprendizajes
 Este proyecto sirvió para practicar:
 -Diccionarios
 -Funciones
